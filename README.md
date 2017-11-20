@@ -1,4 +1,4 @@
-# project-one
+# pourcast
 Pourcast
 
 ## User Story: 
