@@ -66,7 +66,9 @@ var recommendationsObj = {
 }
 
 $(window).on("load", function() {
-  $(".loader").fadeOut(3000);
+  setTimeout(function() {
+    $(".loader").fadeOut(500);
+  }, 2000)  
 })
 
 // Geolocator API to automatically populate with your local zip code
