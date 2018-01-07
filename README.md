@@ -1,7 +1,7 @@
 # pourcast
 Pourcast
 
-View the live site [HERE](https://sarahjelt.github.io/pourcast/)
+View the live site [HERE](https://catslug.github.io/pourcast/).
 
 ## User Story: 
 A one-stop novelty weather app that will tell you fun and perhaps unnecessarily colorful opinions about the weather, and then tell you which beer to pair with that forecast. Built and designed by [Sara Hjelt](https://github.com/sarahjelt), [Brandon Pfeiffer](https://github.com/brandon-pfeiffer), and Lindsay Wall. 
